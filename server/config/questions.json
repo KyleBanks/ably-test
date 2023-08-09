@@ -1,0 +1,59 @@
+[
+    {
+        "id": "Q1",
+        "query": "How many stars are there in the Milky Way?",
+        "answers": [
+            {
+                "id": "A",
+                "content": "Forty-five."
+            },
+            {
+                "id": "B",
+                "content": "100 Million."
+            },
+            {
+                "id": "C",
+                "content": "100 Billion."
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "Q2",
+        "query": "How many people need to be in a group for there to be a roughly 50/50 chance that one of them shares your birthday?",
+        "answers": [
+            {
+                "id": "A",
+                "content": "Seven"
+            },
+            {
+                "id": "B",
+                "content": "Twenty-Three"
+            },
+            {
+                "id": "C",
+                "content": "Forty-Six"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "Q3",
+        "query": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+        "answers": [
+            {
+                "id": "A",
+                "content": "At least 10."
+            },
+            {
+                "id": "B",
+                "content": "Exactly 10."
+            },
+            {
+                "id": "C",
+                "content": "Less than 10."
+            }
+        ],
+        "correct_answer": "A"
+    }
+]
