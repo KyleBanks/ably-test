@@ -12,8 +12,8 @@ type client struct {
 	channel *ably.RealtimeChannel
 }
 
-// NewTransport initialises an Ably transporter implementation, subscribing to
-// all messages on the given channel name.
+// NewTransport initialises an Ably transporter implementation, allowing
+// for publishing and receiving messages over an Ably channel.
 func NewTransport(
 	ctx context.Context,
 	apiKey, channelName string,

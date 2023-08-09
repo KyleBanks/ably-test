@@ -1,4 +1,4 @@
-.PHONY: mocks *server *client test
+.PHONY: *server *client test
 
 SERVER_DIR = "./server"
 SERVER_BIN = "bin/server"
